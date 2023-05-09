@@ -2,4 +2,4 @@
 
 to get the class of job title open the below link on browser
 
-http://43.204.130.155
+http://13.127.118.117/docs
